@@ -4662,6 +4662,14 @@ table.shop-cart tbody tr td.actions input {
 }
 
 
+/* 4. CAROUSEL
+/* --------------------------------------------------------------------- */
+.tp-rightarrow {
+    display: none;
+}
+.tp-leftarrow {
+    display: none;
+}
 /* 4. RESPONSIVE
 /* --------------------------------------------------------------------- */
 @media (min-width: 768px) {
